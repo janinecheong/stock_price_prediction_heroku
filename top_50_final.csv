@@ -1,0 +1,51 @@
+Symbol,SEC filings,GICS Sector,GICS Sub-Industry,Headquarters Location,Date first added,CIK,Founded,Company,Rank
+AAPL,reports,Information Technology,"Technology Hardware, Storage & Peripherals","Cupertino, California",1982-11-30,320193,1977,Apple Inc.,1.0
+MSFT,reports,Information Technology,Systems Software,"Redmond, Washington",1994-06-01,789019,1975,Microsoft Corp.,2.0
+AMZN,reports,Consumer Discretionary,Internet & Direct Marketing Retail,"Seattle, Washington",2005-11-18,1018724,1994,Amazon.com Inc.,3.0
+FB,reports,Communication Services,Interactive Media & Services,"Menlo Park, California",2013-12-23,1326801,2004,Facebook Inc. Class A,4.0
+GOOGL,reports,Communication Services,Interactive Media & Services,"Mountain View, California",2014-04-03,1652044,1998,Alphabet Inc. Class A,5.0
+GOOG,reports,Communication Services,Interactive Media & Services,"Mountain View, California",2006-04-03,1652044,1998,Alphabet Inc. Class C,6.0
+BRK.B,reports,Financials,Multi-Sector Holdings,"Omaha, Nebraska",2010-02-16,1067983,1839,Berkshire Hathaway Inc. Class B,7.0
+JNJ,reports,Health Care,Pharmaceuticals,"New Brunswick, New Jersey",1973-06-30,200406,1886,Johnson & Johnson,8.0
+JPM,reports,Financials,Diversified Banks,"New York, New York",1975-06-30,19617,2000 (1799 / 1871),JPMorgan Chase & Co.,9.0
+V,reports,Information Technology,Data Processing & Outsourced Services,"San Francisco, California",2009-12-21,1403161,1958,Visa Inc. Class A,10.0
+PG,reports,Consumer Staples,Personal Products,"Cincinnati, Ohio",1957-03-04,80424,1837,Procter & Gamble Co.,11.0
+NVDA,reports,Information Technology,Semiconductors,"Santa Clara, California",2001-11-30,1045810,1993,NVIDIA Corp.,12.0
+UNH,reports,Health Care,Managed Health Care,"Minnetonka, Minnesota",1994-07-01,731766,1977,UnitedHealth Group Inc.,13.0
+MA,reports,Information Technology,Data Processing & Outsourced Services,"Harrison, New York",2008-07-18,1141391,1966,MasterCard Inc. Class A,14.0
+HD,reports,Consumer Discretionary,Home Improvement Retail,"Atlanta, Georgia",1988-03-31,354950,1978,Home Depot Inc.,15.0
+DIS,reports,Communication Services,Movies & Entertainment,"Burbank, California",1976-06-30,1744489,1923,Walt Disney Company,16.0
+PYPL,reports,Information Technology,Data Processing & Outsourced Services,"San Jose, California",2015-07-20,1633917,1998,PayPal Holdings Inc.,17.0
+VZ,reports,Communication Services,Integrated Telecommunication Services,"New York, New York",1983-11-30,732712,1983 (1877),Verizon Communications Inc.,18.0
+CMCSA,reports,Communication Services,Cable & Satellite,"Philadelphia, Pennsylvania",2002-11-19,1166691,1963,Comcast Corp. Class A,19.0
+ADBE,reports,Information Technology,Application Software,"San Jose, California",1997-05-05,796343,1982,Adobe Inc.,20.0
+NFLX,reports,Communication Services,Movies & Entertainment,"Los Gatos, California",2010-12-20,1065280,1997,Netflix Inc.,21.0
+CRM,reports,Information Technology,Application Software,"San Francisco, California",2008-09-15,1108524,1999,salesforce.com Inc.,22.0
+PFE,reports,Health Care,Pharmaceuticals,"New York, New York",1957-03-04,78003,1849,Pfizer Inc.,23.0
+BAC,reports,Financials,Diversified Banks,"Charlotte, North Carolina",1976-06-30,70858,1998 (1923 / 1874),Bank of America Corp.,24.0
+WMT,reports,Consumer Staples,Hypermarkets & Super Centers,"Bentonville, Arkansas",1982-08-31,104169,1962,Walmart Inc.,25.0
+INTC,reports,Information Technology,Semiconductors,"Santa Clara, California",1976-12-31,50863,1968,Intel Corp.,26.0
+MRK,reports,Health Care,Pharmaceuticals,"Kenilworth, New Jersey",1957-03-04,310158,1891,Merck & Co. Inc.,27.0
+T,reports,Communication Services,Integrated Telecommunication Services,"Dallas, Texas",1983-11-30 (1957-03-04),732717,1983 (1885),AT&T Inc.,28.0
+PEP,reports,Consumer Staples,Soft Drinks,"Purchase, New York",1957-03-04,77476,1898,PepsiCo Inc.,29.0
+KO,reports,Consumer Staples,Soft Drinks,"Atlanta, Georgia",1957-03-04,21344,1886,Coca-Cola Company,30.0
+ABT,reports,Health Care,Health Care Equipment,"North Chicago, Illinois",1964-03-31,1800,1888,Abbott Laboratories,31.0
+TMO,reports,Health Care,Life Sciences Tools & Services,"Waltham, Massachusetts",,97745,2006 (1902),Thermo Fisher Scientific Inc.,32.0
+CSCO,reports,Information Technology,Communications Equipment,"San Jose, California",1993-12-01,858877,1984,Cisco Systems Inc.,33.0
+ABBV,reports,Health Care,Pharmaceuticals,"North Chicago, Illinois",2012-12-31,1551152,2013 (1888),AbbVie Inc.,34.0
+COST,reports,Consumer Staples,Hypermarkets & Super Centers,"Issaquah, Washington",1993-10-01,909832,1976,Costco Wholesale Corp.,35.0
+QCOM,reports,Information Technology,Semiconductors,"San Diego, California",,804328,1985,QUALCOMM Inc.,36.0
+CVX,reports,Energy,Integrated Oil & Gas,"San Ramon, California",1957-03-04,93410,1879,Chevron Corp.,37.0
+NKE,reports,Consumer Discretionary,"Apparel, Accessories & Luxury Goods","Washington County, Oregon",1988-11-30,320187,1964,NIKE Inc. Class B,38.0
+XOM,reports,Energy,Integrated Oil & Gas,"Irving, Texas",1957-03-04,34088,1999,Exxon Mobil Corp.,39.0
+AVGO,reports,Information Technology,Semiconductors,"San Jose, California",2014-05-08,1730168,1961,Broadcom Inc.,40.0
+MCD,reports,Consumer Discretionary,Restaurants,"Chicago, Illinois",1970-06-30,63908,1940,McDonald's Corp.,41.0
+ACN,reports,Information Technology,IT Consulting & Other Services,"Dublin, Ireland",2011-07-06,1467373,1989,Accenture Plc Class A,42.0
+MDT,reports,Health Care,Health Care Equipment,"Dublin, Ireland",1986-10-31,1613103,1949,Medtronic Plc,43.0
+TXN,reports,Information Technology,Semiconductors,"Dallas, Texas",,97476,1930,Texas Instruments Inc.,44.0
+NEE,reports,Utilities,Multi-Utilities,"Juno Beach, Florida",1976-06-30,753308,1984 (1925),NextEra Energy Inc.,45.0
+HON,reports,Industrials,Industrial Conglomerates,"Morristown, New Jersey",1964-03-31,773840,1906,Honeywell International Inc.,46.0
+DHR,reports,Health Care,Health Care Equipment,"Washington, D.C.",,313616,1969,Danaher Corp.,47.0
+BMY,reports,Health Care,Health Care Distributors,"New York, New York",1957-03-04,14272,1989,Bristol-Myers Squibb,48.0
+UNP,reports,Industrials,Railroads,"Omaha, Nebraska",1957-03-04,100885,1862,Union Pacific Corp.,49.0
+LIN,reports,Materials,Industrial Gases,"Guildford, Surrey, United Kingdom",1992-07-01,1707925,1879,Linde,50.0
