@@ -19,8 +19,8 @@ from math import ceil
 # Import seed for reproducibility
 from numpy.random import seed
 seed(1)
-import tensorflow
-tensorflow.random.set_seed(2)
+# import tensorflow
+# tensorflow.random.set_seed(2)
 
 # For preprocessing and model building
 from sklearn.preprocessing import MinMaxScaler
